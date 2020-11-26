@@ -19,7 +19,7 @@ footer-links:
   email: gvcando@gmail.com
   facebook:gabriela_cando@hotmail.com
   flickr:
-  github: gcando/jekyll-now
+  github: gcando
   instagram:
   linkedin:
   pinterest:
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:https://gcando.github.io
+url:https://Gcando.github.io
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
